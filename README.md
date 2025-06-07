@@ -8,4 +8,5 @@ This Streamlit web app predicts whether a student will get placed based on their
 - The model returns a placement prediction (1 = Placed, 0 = Not Placed).
 
 ## 🧪 Try It Yourself!
-1. Clone this repo:
+1. Clone this repo
+2. Try out my Streamlit App
