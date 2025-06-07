@@ -11,7 +11,7 @@ st.write("Enter your academic details below to predict your placement chance.")
 # Input fields
 cgpa = st.slider("CGPA", 2.00, 10.00, 7.00, 0.01)
 iq = st.slider("IQ", 50, 140, 110)
-profile_score = st.slider("Profile Score", 20, 100, 50, 0.5)
+profile_score = st.slider("Profile Score", 20.0, 100.0, 50.0, 0.5)
 
 if st.button("Predict Placement"):
     processed_input = preprocess_input(cgpa, iq, profile_score)
