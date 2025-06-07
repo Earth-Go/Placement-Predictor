@@ -9,4 +9,4 @@ This Streamlit web app predicts whether a student will get placed based on their
 
 ## 🧪 Try It Yourself!
 1. Clone this repo
-2. Try out my Streamlit App
+2. Try out my Streamlit App :- https://placement-predictor-njbeahwxlbfysytdr8llxk.streamlit.app/
